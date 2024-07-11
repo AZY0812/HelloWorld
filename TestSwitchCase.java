@@ -1,6 +1,6 @@
 public class TestSwitchCase {
 	public static void main(String[] args) {
-		char grade = 'B';
+		char grade =  'B';
 		
 		switch(grade)
 		{
